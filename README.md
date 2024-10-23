@@ -1,6 +1,6 @@
 # Bienvenue chez GitBurger !
 construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
-**Ingrédients disponibles**
+** Ingrédients disponibles**
 - 1 🥯 Pain haut: Pain brioché avec des graines de sésame sur le dessus.
 - 2 🥬 Salade : Salade croquante et fraîche.
 - 3 🍅 Tomate : Tranches de tomate bien mûre.
